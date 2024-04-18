@@ -19,11 +19,17 @@ The best model was Prophet as it produced the most accurate forecast.
 
 # Packages
 Pandas version: 2.1.4 
+
 Numpy version: 1.24.3 
+
 Matplotlib version: 3.8.0 
+
 SKLearn version: 1.3.0 
+
 Statsmodels:  0.14.1
+
 Prophet:  1.1.4
+
 
 Authors
 Dinesh Ranawaka
