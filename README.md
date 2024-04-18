@@ -4,7 +4,6 @@ The aim of this project was to find the best model to forecast retail sales for 
 # Data
 The dataset contains time stamped data on product, product categories, customer, geo and sales. 
 
-https://www.kaggle.com/datasets/arashnic/banking-loan-prediction
 
 # Workflow
 ![Retail Sales Forecast Workflow](https://github.com/zivenine/Retail_Sales_Forecast/assets/138107601/51c268bf-6dab-406a-a9b6-78b26800afe2)
